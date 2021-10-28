@@ -1,4 +1,4 @@
-# autotools template
+# Autotools project template
 
 This repository contains an autotools template project.
 
@@ -30,7 +30,7 @@ make
 sudo make install
 ```
 
-## uninstall
+## Uninstall
 
 ``` sh
 sudo make uninstall
